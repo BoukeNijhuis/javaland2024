@@ -1,0 +1,36 @@
+- Grab some water
+
+- Laptop on focus mode
+
+- Disable AI coding assistant plugins (and restart!)
+- Test the plugin
+
+- Clear all breakpoints (in the popup!!!)
+- Remove remote debugging configurations (press OK!)
+
+- Zoom in in the terminal
+- Start the jar in a terminal (java -cp target/classes de.javaland.HelloWorld) -> check if it says Hello!
+
+- Open the first three "slides" (0, 1 & HelloWorld.java)
+- Put the cursors on the right positions
+
+- IntelliJ in light mode
+- IntelliJ in presentation mode
+
+- Explain WHY hot code swapping + dropping frames & remote debugging is useful!!!
+
+
+
+Introduction story
+
+Hello everybody. Welcome. Thank you for joining me.
+
+I would like to start with a story today. Once upon a time there was a developer. He had about 10/15 years of experience.
+He was happily coding away, until he noticed something. He noticed that the debugger had become an important tool in his
+toolbox. This while he was only scratching the surface of the debugger features. So he decided to become better at using
+this tool. He read a lot of articles and blogs, watched YouTube
+videos and just started playing in the IDE with all the options of the debugger. He learned a lot in this journey and
+decided to create a presentation. This presentation.
+
+My name is Bouke Nijhuis, I am the CTO at CINQ ICT and you can easily reach me on Twitter on the handle currently on the
+screen. The topic of today is improving your skills with debugger.
