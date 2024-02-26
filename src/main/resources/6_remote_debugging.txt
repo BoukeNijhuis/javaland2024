@@ -3,5 +3,5 @@ Remote debugging
 - Attaching
 - Debug configuration
 - Conditions
-- Usability
-- Dangers
+- Usability (if you cannot reproduce locally)
+- Dangers (do not do this on production)
