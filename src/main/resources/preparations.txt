@@ -3,7 +3,7 @@
 - Laptop on focus mode
 
 - Disable AI coding assistant plugins (and restart!)
-- Test the plugin
+- Remove the plugin
 
 - Clear all breakpoints (in the popup!!!)
 - Remove remote debugging configurations (press OK!)
